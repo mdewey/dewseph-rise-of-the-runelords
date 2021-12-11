@@ -1,0 +1,12 @@
+{
+    "name": "dewseph-rise-of-the-runelords",
+    "title": "Dewey's Dungeon - Rise of the Runelords",
+    "description": "My locally built content",
+    "version": "0.0.1",
+    "author": "mdewey",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.7",
+    "packs": [],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+}
