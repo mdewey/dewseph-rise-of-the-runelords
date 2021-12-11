@@ -6,7 +6,14 @@
     "author": "mdewey",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.7",
-    "packs": [],
+    "packs": [
+        {
+            "name": "rise-of-the-runelords-book-4",
+            "label": "Rise of the Runelords Book 4",
+            "path": "/packs/rise-of-the-runelords-book-4.db",
+            "entity": "Scene"
+        }
+    ],
     "manifest": "https://raw.githubusercontent.com/mdewey/dewseph-rise-of-the-runelords/main/module.json?token=AANV7AZFGAS4PUBPUXL2FXDBWUE2U",
     "download": "https://github.com/mdewey/dewseph-rise-of-the-runelords/archive/refs/heads/main.zip"
 }
