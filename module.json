@@ -7,6 +7,6 @@
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.7",
     "packs": [],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "manifest": "https://raw.githubusercontent.com/mdewey/dewseph-rise-of-the-runelords/main/module.json?token=AANV7AZFGAS4PUBPUXL2FXDBWUE2U",
+    "download": "https://github.com/mdewey/dewseph-rise-of-the-runelords/archive/refs/heads/main.zip"
 }
