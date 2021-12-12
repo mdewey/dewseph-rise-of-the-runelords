@@ -2,18 +2,11 @@
     "name": "dewseph-rise-of-the-runelords",
     "title": "Dewey's Dungeon - Rise of the Runelords",
     "description": "My locally built content",
-    "version": "0.1.4",
+    "version": "0.2.0",
     "author": "mdewey",
     "minimumCoreVersion": "0.8.9",
     "compatibleCoreVersion": "0.8.9",
-    "packs": [
-        {
-            "name": "rise-of-the-runelords-book-4",
-            "label": "Rise of the Runelords Book 4",
-            "path": "/packs/rise-of-the-runelords-book-4.db",
-            "entity": "Scene"
-        }
-    ],
+    "packs": [],
     "manifest": "https://raw.githubusercontent.com/mdewey/dewseph-rise-of-the-runelords/main/module.json?token=AANV7AZFGAS4PUBPUXL2FXDBWUE2U",
     "download": "https://github.com/mdewey/dewseph-rise-of-the-runelords/archive/refs/heads/main.zip"
 }
