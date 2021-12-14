@@ -2,7 +2,7 @@
     "name": "dewseph-rise-of-the-runelords",
     "title": "Dewey's Dungeon - Rise of the Runelords",
     "description": "My locally built content",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "author": "mdewey",
     "minimumCoreVersion": "0.8.9",
     "compatibleCoreVersion": "0.8.9",
@@ -18,6 +18,12 @@
             "label": "Runelord Players",
             "path": "./packs/players.db",
             "entity": "Actor"
+        },
+        {
+            "name": "runelord-journal",
+            "label": "Runelord Journal",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntries"
         }
     ],
     "manifest": "https://raw.githubusercontent.com/mdewey/dewseph-rise-of-the-runelords/main/module.json?token=AANV7AZFGAS4PUBPUXL2FXDBWUE2U",
