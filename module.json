@@ -2,10 +2,10 @@
     "name": "dewseph-rise-of-the-runelords",
     "title": "Dewey's Dungeon - Rise of the Runelords",
     "description": "My locally built content",
-    "version": "0.3.2",
+    "version": "0.4.0",
     "author": "mdewey",
-    "minimumCoreVersion": "0.8.9",
-    "compatibleCoreVersion": "0.8.9",
+    "minimumCoreVersion": "0.9.0",
+    "compatibleCoreVersion": "0.9.0",
     "packs": [
         {
             "name": "runelord-scenes",
